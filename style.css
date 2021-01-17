@@ -1,6 +1,38 @@
-.blurb{
-    font-family: sans-serif;
-}
+
 body{
+    
     background-color: blanchedalmond;
+    text-align: center;
+}
+.blurb{
+    margin-top: 15%;
+}
+p{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.h1{
+    font-weight: bolder;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 65px;
+}
+.test{
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    background-color: transparent;
+    border-radius: 4px;
+    font-size: 16px;
+    padding: 6px 12px;
+    border: 1px solid transparent;
+    border-color: #212629;
+    color: #212629;
+    margin-top: 2px;
+    margin-bottom: 2px;
+
+}
+.test:hover{
+    background-color:#212629;
+    color: white;
 }
